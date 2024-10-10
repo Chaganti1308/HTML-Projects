@@ -1,0 +1,26 @@
+-- event feedback survey
+
+    - form
+        - event name - text box
+        - your name - text box
+        - overall rating -- dropdown
+        - recommend -- radio
+        - additional comments -- textarea
+
+        - submit button
+
+horizontal rule
+
+-- employee satisfaction survey
+
+    - form
+        - emp name - text box
+        - emp department - text box
+
+        - satisfied -- radio button
+
+        - rate environment -- dropdown
+
+        -- suggestion -- textarea
+
+        -- button

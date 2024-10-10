@@ -1,0 +1,43 @@
+-- logo
+    - navbar
+        - home
+        - page
+        - photography
+        - photo shoots
+
+    - button with text
+
+    - text with <br> tag
+        - description for photography
+
+    - get in touch button
+
+    -- images
+
+    --know about us
+        description
+
+        - get in touch button
+
+    -- why choose us
+        - services 
+           1.  - service image
+               - service title
+               - service description
+           2.  - service image
+               - service title
+               - service description
+           3.  - service image
+               - service title
+               - service description
+
+    -- Awesome works
+
+-- navbar
+    - home
+    - pages
+    - photography
+    - photo shoots
+
+
+

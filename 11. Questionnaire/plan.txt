@@ -1,0 +1,31 @@
+-- title
+    - description
+
+-- general information
+        -- general information
+            -- form
+                - name
+                - email
+                - company
+
+        -- project details
+            -- form
+                - drop down
+                - description
+                - target -- textbox
+
+        -- design preference
+            -- form
+                - color text
+                - font text
+                - style text
+            
+        -- additional information
+            -- form
+                - budget text
+                - timeline text
+                - additional notes -- textarea
+
+        -- submit button 
+
+    -- footer

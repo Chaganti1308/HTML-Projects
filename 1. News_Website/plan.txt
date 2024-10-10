@@ -1,0 +1,21 @@
+-- logo for the website
+
+-- navbar
+   - tech updates
+   - politics
+   - business
+   - sports
+   - world
+   - travel
+
+-- news blog image
+    - sector of the image
+    - title of the news
+    - news description
+    - time
+
+-- hr for dividing page
+
+-- footer
+   -- copyright and privacy policy
+   -- links

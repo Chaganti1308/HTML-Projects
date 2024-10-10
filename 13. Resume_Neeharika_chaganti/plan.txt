@@ -1,0 +1,23 @@
+-- title
+-- image
+-- email | phone
+-- linkedIn : url
+
+-- professional summary
+   - description
+
+-- work experience
+   - list the experiences
+
+-- Education
+   - Education details
+
+-- Skills
+   - list the Skills
+
+-- Additional information
+   - languages
+   - hobbies
+
+-- footer
+   - copyright information 

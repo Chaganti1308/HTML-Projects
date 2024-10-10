@@ -1,0 +1,8 @@
+-- title
+-- image
+    -- description in small text
+
+-- about section
+    -- list all the points 
+
+paragraph , link text to swami vivekananda bio

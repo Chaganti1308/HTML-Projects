@@ -1,0 +1,20 @@
+-- title of application
+
+-- image
+
+-- personal information form
+
+    - name
+    - email
+    - phone
+
+-- pet preference form
+
+    - pet type - dropdown
+    - age range - radio
+    - reason to adopt - textarea
+
+-- submit button
+
+-- title for videos
+    -- video

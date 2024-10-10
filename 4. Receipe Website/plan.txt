@@ -1,0 +1,12 @@
+-- title
+-- image
+
+-- ingredients 
+    - ingredients list
+
+-- instructions
+    - step by step procedure in a order
+
+-- notes
+    - note description
+

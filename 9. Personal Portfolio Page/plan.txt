@@ -1,0 +1,26 @@
+-- title
+-- image
+
+-- about me 
+    -- description
+
+-- skills
+    -- list the skills here
+
+-- work experience
+    -- experience 1
+       - title 
+         - description
+         - image
+
+-- education 
+    -- degree title
+       - title 
+         - description
+         - image
+
+-- Contact form
+    - email
+    - phone 
+
+-- copyright information

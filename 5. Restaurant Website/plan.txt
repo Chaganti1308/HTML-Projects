@@ -1,0 +1,44 @@
+-- restaurant logo
+
+-- restaurant title
+    
+    -- navbar
+
+    -- welcome note
+        - description
+
+    -- about us
+        - description
+
+-- Menu
+    -- appetizers list
+        1. - name - price
+           - image
+        2. - name - price
+           - image
+        3. - name - price
+           - image
+
+    -- main courses
+        1. - name - price
+           - image
+        2. - name - price
+           - image
+        3. - name - price
+           - image
+
+    -- desserts
+        1. - name - price
+           - image
+        2. - name - price
+           - image
+        3. - name - price
+           - image
+
+    -- contact us
+        - address
+        - phone
+        - email 
+
+
+    -- copyright

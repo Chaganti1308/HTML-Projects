@@ -1,0 +1,52 @@
+1. index.html
+    -- title
+        - navbar 
+            - home
+            - about us
+            - contact us
+
+    -- what we offer
+        - description
+        - video
+    
+    -- why choose us
+        - list the reasons
+
+    -- footer
+
+2. about.html
+    -- title
+        - navbar
+            - home
+            - about us
+            - contact us
+
+        - our mission
+            - description
+
+        - our vision
+            - description
+
+        - our team
+            - description
+
+        -- video
+
+        -- footer
+
+3. contact.html
+    -- title
+        - home
+        - about
+        - contact
+    
+    -- get in touch
+        - form
+            - name
+            - email
+            - message
+            - button
+
+        - video
+
+    -- footer

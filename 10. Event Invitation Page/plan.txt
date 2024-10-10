@@ -1,0 +1,14 @@
+-- Event Name
+-- Event details
+-- Embed event video
+-- Venue date
+-- Venue time
+-- Venue place
+-- Event Description
+-- Event agenda
+    - detailed time
+
+-- footer
+   - copyright information
+   - email and contact information
+   - Social links

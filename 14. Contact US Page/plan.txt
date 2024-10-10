@@ -1,0 +1,17 @@
+-- heading
+   - description
+
+-- get in touch form
+   - name
+   - email
+   - phone
+   - message
+   - button
+
+-- contact information
+   - email
+   - phone
+   - address
+
+-- footer
+   - copyright information
